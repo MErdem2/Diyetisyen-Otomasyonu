@@ -1,0 +1,12 @@
+C:\Users\mustafa\source\repos\DHTS ANA GİRİŞ\DHTS ANA GİRİŞ\obj\Debug\DHTS ANA GİRİŞ.csprojAssemblyReference.cache
+C:\Users\mustafa\source\repos\DHTS ANA GİRİŞ\DHTS ANA GİRİŞ\obj\Debug\DHTS_ANA_GİRİŞ.Form1.resources
+C:\Users\mustafa\source\repos\DHTS ANA GİRİŞ\DHTS ANA GİRİŞ\obj\Debug\DHTS_ANA_GİRİŞ.Properties.Resources.resources
+C:\Users\mustafa\source\repos\DHTS ANA GİRİŞ\DHTS ANA GİRİŞ\obj\Debug\DHTS ANA GİRİŞ.csproj.GenerateResource.cache
+C:\Users\mustafa\source\repos\DHTS ANA GİRİŞ\DHTS ANA GİRİŞ\obj\Debug\DHTS ANA GİRİŞ.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\source\repos\DHTS ANA GİRİŞ\DHTS ANA GİRİŞ\bin\Debug\DHTS ANA GİRİŞ.exe.config
+C:\Users\mustafa\source\repos\DHTS ANA GİRİŞ\DHTS ANA GİRİŞ\bin\Debug\DHTS ANA GİRİŞ.exe
+C:\Users\mustafa\source\repos\DHTS ANA GİRİŞ\DHTS ANA GİRİŞ\bin\Debug\DHTS ANA GİRİŞ.pdb
+C:\Users\mustafa\source\repos\DHTS ANA GİRİŞ\DHTS ANA GİRİŞ\obj\Debug\DHTS ANA GİRİŞ.exe
+C:\Users\mustafa\source\repos\DHTS ANA GİRİŞ\DHTS ANA GİRİŞ\obj\Debug\DHTS ANA GİRİŞ.pdb
+C:\Users\mustafa\source\repos\DHTS ANA GİRİŞ\DHTS ANA GİRİŞ\obj\Debug\DHTS_ANA_GİRİŞ.KayitEkran.resources
+C:\Users\mustafa\source\repos\DHTS ANA GİRİŞ\DHTS ANA GİRİŞ\obj\Debug\DHTS_ANA_GİRİŞ.ŞifremiUnuttum.resources
